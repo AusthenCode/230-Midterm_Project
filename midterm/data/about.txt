@@ -1,0 +1,5 @@
+About Bookify
+
+Bookify is a simple book tracking application. Users can add books, write reviews, and manage their personal reading lists. Our goal is to make keeping track of your reading easy and enjoyable.
+
+Thank you for using Bookify!
