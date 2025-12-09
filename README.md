@@ -1,4 +1,4 @@
-# 230-Midterm_Project
+# 230-Final_Project
 
 # Solo/Leader - Austin Shelton
 # Will be doing everything
@@ -9,4 +9,4 @@
 # Built with Bootstrap for a modern, responsive design, the app uses flat-file storage for simplicity and speed. Readers can browse and search books, while admins manage users and content—forming a strong foundation for a future, database-powered capstone project.
 
 # Video link
-# https://youtu.be/J25-WfxW2hU
+# https://youtu.be/AP3r-Nz5Tw4

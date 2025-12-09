@@ -1,5 +1,0 @@
-Welcome to My Book Collection!
-
-This web app lets you organize and explore your personal book library online.
-You can add books by title, author, and genre, and browse your collection anytime.
-Built using PHP and Bootstrap, it’s a simple and responsive platform designed to make managing your reading list easy and enjoyable.
